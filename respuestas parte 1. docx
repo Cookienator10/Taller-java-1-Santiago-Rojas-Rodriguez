@@ -1,0 +1,63 @@
+Presentado por: Santiago Rojas Rodríguez
+presentado a:  Arle Morales
+Ficha: 2722493
+Programa: Analisis y Desarrollo de Software
+
+Solucion
+1.
+A.vamos revisar las preguntas mas frecuentes sobre  JAVA y el ciclo de vida de programa hechos en este lenguaje, maquina virtual: una maquina virtual es un software que se encarga de emular aparatos reales dentro de la maquina fisica
+
+
+B. 
+PHYTON	JAVA	JAVASCRIPT
+Mas legible	Portabilidad	Velocidad
+Codigo abierto	Biblioteca	Compatibilidad
+Flexibilidad	Seguridad	Versatibilidad
+Comunidad		Ambito de Aplicación
+Empresas		
+
+
+C.
+-comentario en java: los comentarios en java se realizan de 3 formas
+
+primera forma
+//forma 1
+segunda forma
+/*
+* First, establish a connection to the server.
+* If the connection attempt fails, quit right away.
+*/
+tercera forma
+/**
+* Upload a file to a web server.
+*
+* @param file The file to upload.
+* @return <tt>true</tt> on success,
+*
+<tt>false</tt> on failure.
+* @author David Flanagan
+*/
+palabra reservada: palabra que tiene un significado especifico en el lenguaje
+ehemplo:
+ abstract	continue	for	new	switch
+
+identificador: nombre que le damos a las variables
+ejemplo: 
+try
+super 
+assert
+package
+native
+
+literal: una representacion  cobstante de un valor que se especifica enb el codigo fuente.
+ejemplo:
+int numero = 42; // Literal entero
+double pi = 3.14159; // Literal de punto flotante
+char letra = 'A'; // Literal de carácter
+String mensaje = "Hola, mundo!"; // Literal de cadena
+boolean esVerdadero = true; // Literal booleano
+Object objetoNulo = null; // Literal de valor nulo
+
+
+
+2-idea itteligentidea esta instalada
